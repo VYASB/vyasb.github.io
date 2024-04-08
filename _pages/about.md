@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 #subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
 
@@ -10,14 +10,14 @@ profile:
   image_circular: false # crops the image to make it circular
   address: >
     <p>contact me:</p>
-    <p>i.a.auzina@uva.nl</p>
+    <p>vyasb@tcd.ie</p>
   #   <p>Your City, State 12345</p>
 
-news: false  # includes a list of news items
+news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
-Hi there, welcome to my personal page! I am a PhD candidate at the Univeristity of Amsterdam, in [Video & Image Sense Lab](https://ivi.fnwi.uva.nl/vislab/) under the supervision of [Efstratios Gavves](https://www.egavves.com/) and [Sara Magliacane](https://saramagliacane.github.io/). I am also an [ELLIS PhD](https://ellis.eu/phd-postdoc) co-supervised by [Prof. Matthias Bethge](https://bethgelab.org/people/) at Tübingen University, Germany. Currently, I am working together with the amazing postdoc [Çağatay Yıldız](https://cagatayyildiz.github.io). Earlier I have worked together with [Jakub M. Tomczak](https://jmtomczak.github.io/) for my Master Thesis on [Approximate Bayesian Computation for discrete data](https://www.mdpi.com/1099-4300/23/3/312) at Vrije Universiteit, Amsterdam, which was nominated for best Master Thesis award. 
+Hi there, welcome to my personal page! I am a PhD candidate at the Trinity College Dublin, in [Graphics & Vision Group](https://gv2.scss.tcd.ie/) of School of Computer Sceince and Statistics under the supervision of [Carol O'Sullivan](https://www.tcd.ie/research/profiles/?profile=osullica) and [Sara Magliacane]. Earlier I have worked together with [Jakub M. Tomczak](https://jmtomczak.github.io/) for my Master Thesis on [Approximate Bayesian Computation for discrete data](https://www.mdpi.com/1099-4300/23/3/312) at Vrije Universiteit, Amsterdam, which was nominated for best Master Thesis award. 
 
 My PhD research is focused on learning `dynamical systems`. In particular, we want to learn dynamics from high-dimensional data with physical constraints that enforces the model to learn the _true_ dynamics, rather than overfitting the data. My work mainly focuses on two domains: (i) `object-centric dynamics` (learning trajectories from object/animal recordings), or (ii) `fluid dynamics` (climate model recordings). As part of the exploration process I am investigating the connections between dynamics and geometry. 
 
