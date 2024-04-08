@@ -17,16 +17,15 @@ news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
-Hi there, welcome to my personal page! I am a PhD candidate at the Trinity College Dublin, in [Graphics & Vision Group](https://gv2.scss.tcd.ie/) of School of Computer Sceince and Statistics under the supervision of [Carol O'Sullivan](https://www.tcd.ie/research/profiles/?profile=osullica) and [Sara Magliacane]. Earlier I have worked together with [Jakub M. Tomczak](https://jmtomczak.github.io/) for my Master Thesis on [Approximate Bayesian Computation for discrete data](https://www.mdpi.com/1099-4300/23/3/312) at Vrije Universiteit, Amsterdam, which was nominated for best Master Thesis award. 
+I am a PhD candidate at [Trinity College Dublin](https://www.tcd.ie/), with a primary focus on virtual humans, their motion, and motion perception. As a Marie Skłodowska-Curie Early Stage Researcher, I am privileged to be part of the [ITN-CLIPE project](https://www.clipe-itn.eu/), exploring into the fascinating topic of virtual humans and their interactions with the world.
 
-My PhD research is focused on learning `dynamical systems`. In particular, we want to learn dynamics from high-dimensional data with physical constraints that enforces the model to learn the _true_ dynamics, rather than overfitting the data. My work mainly focuses on two domains: (i) `object-centric dynamics` (learning trajectories from object/animal recordings), or (ii) `fluid dynamics` (climate model recordings). As part of the exploration process I am investigating the connections between dynamics and geometry. 
+Under the guidance of Professor [Carol O'Sullivan](https://www.tcd.ie/research/profiles/?profile=osullica), I am exploring the intricate nuances of virtual human motion, aiming to push the boundaries of what's possible in immersive experiences. My academic journey has been enriched by collaborations with esteemed institutions such as Amazon, Inria, and the Max-Planck Institute for Intelligent Systems, where I've had the opportunity to contribute and collaborate with leading researchers in the field.
 
-Broadly my research interests are 
+My academic background reflects my multidisciplinary approach to research. With a Master's degree in Computer Science, specializing in Virtual & Augmented Reality, and a Bachelor's degree in `Mechanical & Automation Engineering`, I bring a diverse set of skills and perspectives to my work.
 
-- dynamical systems (ODEs/SDEs/PDEs)
-- gaussian processes
-- generarive models 
-- geometry for dynamics
+Beyond research and academia, I am deeply passionate about movies. Whether it's exploring new avenues in virtual reality or pushing the boundaries of human-computer interaction, I am driven by a relentless curiosity and a desire to make a difference in the world of technology.
+
+Thank you for taking the time to read this far and not giving up. I am excited about the journey ahead and the possibilities that lie on the horizon.
 
 <!-- Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically. -->
 

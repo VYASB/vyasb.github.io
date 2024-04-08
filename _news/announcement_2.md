@@ -1,11 +1,11 @@
 ---
 layout: post
-title: A long announcement with details
+title: I will be joining VirtUs team at Inria under supervision of Julien Pettre and Ludovic Hoyet
 date: 2015-11-07 16:11:00-0400
 inline: false
 ---
 
-Announcements and news can be much longer than just quick inline posts. In fact, they can have all the features available for the standard blog posts. See below.
+I will be joining VirtUs team at Inria under supervision of Julien Pettre and Ludovic Hoyet
 
 ***
 
