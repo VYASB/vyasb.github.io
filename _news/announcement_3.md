@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2022-05-05 16:11:00-0400
+date: 2021-08-08 16:11:00-0400
 inline: true
 ---
 
-I am presenting at the Doctoral Consortium event at EUROGRAPHICS’2021 (Virtual)
+Virtually attending the [Summer School on Virtual Humans](https://www.clipe-itn.eu/news/training-workshop-1%3A-summer-school-on-virtual-humans) organised by University of Cyprus.
