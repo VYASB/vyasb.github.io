@@ -8,7 +8,7 @@ nav: true
 nav_order: 1
 ---
 
-<div class="teaching">
+<div class="talk">
 
 {%- for y in page.years %}
   <h2 class="year">{{y}}</h2>
