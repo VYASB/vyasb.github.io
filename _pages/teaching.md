@@ -2,8 +2,8 @@
 layout: page
 permalink: /teaching/
 title: Teaching
-description: The modules I have taught during the PhD
-years: [2020 - 2024]
+description: The modules I have taught and/or demonstarted during the PhD
+years: [2024]
 nav: true
 nav_order: 1
 ---
