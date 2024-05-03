@@ -17,9 +17,9 @@ news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
-Hey there, I am a PhD candidate at [Trinity College Dublin](https://www.tcd.ie/), with a primary focus on virtual humans, their motion and body shape, and motion perception. As a Marie Skłodowska-Curie Early Stage Researcher, I am privileged to be part of the [ITN-CLIPE project](https://www.clipe-itn.eu/), exploring into the fascinating topic of virtual humans and their interactions with the world.
+Hey there, I am a PhD candidate at ['Trinity College Dublin'](https://www.tcd.ie/), with a primary focus on virtual humans, their motion and body shape, and motion perception. As a Marie Skłodowska-Curie Early Stage Researcher, I am privileged to be part of the ['ITN-CLIPE project'](https://www.clipe-itn.eu/), exploring into the fascinating topic of virtual humans and their interactions with the world.
 
-Under the guidance of Professor [Carol O'Sullivan](https://www.tcd.ie/research/profiles/?profile=osullica), I am exploring the intricate nuances of virtual human motion, aiming to push the boundaries of what's possible in immersive experiences. My academic journey has been enriched by collaborations with esteemed institutions such as `Amazon`, `Inria`, and the `Max-Planck Institute for Intelligent Systems`, where I've had the opportunity to contribute and collaborate with leading researchers in the field.
+Under the guidance of Professor ['Carol O'Sullivan'](https://www.tcd.ie/research/profiles/?profile=osullica), I am exploring the intricate nuances of virtual human motion, aiming to push the boundaries of what's possible in immersive experiences. My academic journey has been enriched by collaborations with esteemed institutions such as `Amazon`, `Inria`, and the `Max-Planck Institute for Intelligent Systems`, where I've had the opportunity to contribute and collaborate with leading researchers in the field.
 
 My academic background reflects my multidisciplinary approach to research. With a Master's degree in Computer Science, specializing in Virtual & Augmented Reality, and a Bachelor's degree in `Mechanical & Automation Engineering`, I bring a diverse set of skills and perspectives to my work.
 
