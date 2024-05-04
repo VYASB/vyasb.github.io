@@ -1,8 +1,9 @@
 ---
 layout: cv
 permalink: /cv/
-title: resume
+title: Resume
+description: Click on the document to download my resume ;)
 nav: true
 nav_order: 3
-cv_pdf: CV-Auzina.pdf
+cv_pdf: CV.pdf
 ---
