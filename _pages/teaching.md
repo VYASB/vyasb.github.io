@@ -5,7 +5,7 @@ title: Teaching
 description: The modules I have taught and/or assisted in class during the PhD.
 years: [2020, 2021, 2022, 2023, 2024]
 nav: true
-nav_order: 1
+nav_order: 2
 ---
 
 <div class="talks">
