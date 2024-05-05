@@ -3,7 +3,7 @@ layout: page
 permalink: /teaching/
 title: Teaching
 description: The modules I have taught and/or assisted in class during the PhD.
-years: [2020, 2021, 2022, 2023]
+years: [2023, 2022, 2021, 2020]
 nav: true
 nav_order: 2
 ---
