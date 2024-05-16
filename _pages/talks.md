@@ -3,7 +3,6 @@ layout: post
 permalink: /gallery/
 title:  Gallery
 description: notes on the paper, introduction to diffusion models
-tags: diffusionModel, generativeModel
 # categories: sample-posts
 ---
 ### Understanding Diffusion Models: A Unified Perspective
