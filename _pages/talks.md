@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 permalink: /gallery/
 title:  Gallery
 description: notes on the paper, introduction to diffusion models
