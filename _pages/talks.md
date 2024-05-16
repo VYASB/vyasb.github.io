@@ -1,15 +1,20 @@
 ---
 layout: page
-permalink: /gallery/
-title:  Gallery
-description: notes on the paper, introduction to diffusion models
-# categories: sample-posts
+permalink: /teaching/
+title: teaching
+description: Materials for courses you taught. Replace this text with your description.
+nav: true
+nav_order: 6
 ---
-### Understanding Diffusion Models: A Unified Perspective
+
+For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
+
+Organize your courses by years, topics, or universities, however you like!
+<!-- ### Understanding Diffusion Models: A Unified Perspective
 
 This is just me reading this paper and making some notes on the go. Let me know if someone wants to discuss the paper or find something intersting in my notes. Pardon my casual poor language skills throughout 😄
 
-> I will try to go through some concepts in detail, while we also talk briefly through other relevant concepts. The text is purely my interpretation of the published work by Calvin Luo, and please dont use these notes to understand the paper. Rather think of this text as an exercise to check if you understood the concepts better than me or not 😉
+> I will try to go through some concepts in detail, while we also talk briefly through other relevant concepts. The text is purely my interpretation of the published work by Calvin Luo, and please dont use these notes to understand the paper. Rather think of this text as an exercise to check if you understood the concepts better than me or not 😉 -->
 
 
 <!-- ---
