@@ -15,9 +15,6 @@ This is me talking about what I do, and showing off the motion capture suit lol 
     <div class="col-sm mt-3 mt-md-0">
         {% include video.html path="assets/video/adapt.mp4" class="img-fluid rounded z-depth-1" controls=true autoplay=true %}
     </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include video.html path="assets/video/furthrfestival.mp4" class="img-fluid rounded z-depth-1" controls=true %}
-    </div>
 </div>
 <div class="caption">
     This is me talking about what I do, and showing off the motion capture suit lol 🤩 @ADAPT Centre - Ireland 
