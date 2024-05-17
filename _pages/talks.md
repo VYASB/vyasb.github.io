@@ -21,7 +21,7 @@ nav_order: 6
 <div class="row justify-content-center mt-3">
     <div class="col-auto text-center">
         <div class="caption">
-            The GV (Graphics & Vision) group was @Furthr Festival showcasing some research demos 💪
+            The GV (Graphics & Vision) group showcasing some research demos 💪 @Furthr Festival
         </div>
         {% include video.html width="280" height="560" path="https://www.youtube.com/embed/zVVycbM-ovY?si=haFNeQ6Rb9LZ2iXZ" class="img-fluid rounded z-depth-1" %}
     </div>
