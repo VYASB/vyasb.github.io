@@ -16,7 +16,7 @@ This is me talking about what I do, and showing off the motion capture suit lol 
         {% include video.html path="assets/video/adapt.mp4" class="img-fluid rounded z-depth-1" controls=true autoplay=true %}
     </div>
     <div class="row mt-3">
-        {% include video.html path="https://www.youtube.com/embed/2ZCp2lS-7MM?si=XXHyBjUY2p-vYKl9" class="img-fluid rounded z-depth-1" %}
+        {% include video.html width="560" height="315" path="https://www.youtube.com/embed/2ZCp2lS-7MM?si=XXHyBjUY2p-vYKl9" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
