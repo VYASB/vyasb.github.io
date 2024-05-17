@@ -13,7 +13,7 @@ This is me talking about what I do, and showing off the motion capture suit lol 
 
 <div class="row mt-3">
     <div class="row mt-3">
-        {% include video.html width="560" height="560" path="https://www.youtube.com/embed/2ZCp2lS-7MM?si=XXHyBjUY2p-vYKl9" class="img-fluid rounded z-depth-1" %}
+        {% include video.html width="280" height="560" path="https://www.youtube.com/embed/2ZCp2lS-7MM?si=XXHyBjUY2p-vYKl9" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
