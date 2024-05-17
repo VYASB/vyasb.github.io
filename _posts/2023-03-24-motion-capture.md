@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Motion Capture the 'Understanding Diffusion Models- A Unified Perspective' paper
-date:   2023-03-12
+date:   2023-03-24
 description: notes on the paper, introduction to something
 tags: diffusionModel, generativeModel
 # categories: sample-posts
