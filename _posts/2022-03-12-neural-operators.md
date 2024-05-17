@@ -30,4 +30,3 @@ This is just me reading this paper and making some notes on the go. Let me know 
 
 ## <font size="6" color="darkblue">Introduction </font>
 
-> Things Coming Soon !!
