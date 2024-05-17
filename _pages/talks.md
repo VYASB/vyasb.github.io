@@ -12,11 +12,8 @@ nav_order: 6
 This is me talking about what I do, and showing off the motion capture suit lol 🤩 @ADAPT Centre - Ireland 
 
 <div class="row mt-3">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include video.html path="assets/video/adapt.mp4" class="img-fluid rounded z-depth-1" controls=true autoplay=true %}
-    </div>
     <div class="row mt-3">
-        {% include video.html width="560" height="315" path="https://www.youtube.com/embed/2ZCp2lS-7MM?si=XXHyBjUY2p-vYKl9" class="img-fluid rounded z-depth-1" %}
+        {% include video.html width="560" height="560" path="https://www.youtube.com/embed/2ZCp2lS-7MM?si=XXHyBjUY2p-vYKl9" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
