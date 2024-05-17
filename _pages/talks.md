@@ -36,6 +36,12 @@ nav_order: 6
     </div>
 </div>
 
+> People do not naturally become morally excellent or practically wise. They become so, if at all, only as the result of lifelong personal and community effort. ~ Aristotle
+
+
+Blessed to have such amazing community around!
+
+
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.html path="assets/img/wb1.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
