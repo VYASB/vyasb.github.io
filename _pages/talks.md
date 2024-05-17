@@ -11,20 +11,32 @@ nav_order: 6
 
 
 
-<div class="row mt-3">
-    <div class="row mt-3">
+<div class="row justify-content-center mt-3">
+    <div class="col-auto">
         {% include video.html width="280" height="560" path="https://www.youtube.com/embed/RowyHo7N4UM?si=5mFckahaYmETX5aX" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
-<div class="caption">
+<div class="caption text-center">
     This is me talking about what I do, and showing off the motion capture suit lol 🤩 @ADAPT Centre - Ireland 
 </div>
 
-<div class="row mt-3">
-    <div class="row mt-3">
+<div class="row justify-content-center mt-3">
+    <div class="col-auto">
         {% include video.html width="280" height="560" path="https://www.youtube.com/embed/2ZCp2lS-7MM?si=XXHyBjUY2p-vYKl9" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
-<div class="caption">
+<div class="caption text-center">
     The GV (Graphics & Vision) group was @Furthr Festival showcasing some research demos 💪
+</div>
+
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/wb1.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/wb2.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/wb3.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
 </div>
