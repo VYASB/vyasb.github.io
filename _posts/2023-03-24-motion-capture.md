@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  Motion Capture the 'Understanding Diffusion Models- A Unified Perspective' paper
+title:  Motion Capture - How does it work?
 date:   2023-03-24
-description: notes on the paper, introduction to something
-tags: diffusionModel, generativeModel
+description: A deep dive into the motion capture technology and its use in animation & graphics pipeline
+tags: mocap, animation
 # categories: sample-posts
 ---
 ### Understanding Diffusion Models: A Unified Perspective
