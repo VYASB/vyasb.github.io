@@ -64,17 +64,16 @@ So, this was the end of some cool analogy described in the paper. Its always nic
 
 ##### Evidence Lower Bound
 
-We start with the latent variable \( z \) and data we observe with the joint distribution \( p(x, z) \)
+We start with the latent variable $ z $ and data we observe with the joint distribution $ p(x, z) $
 
-In the "Likelihood based" generative modeling, we want to maximize the \( p(x) \) of all observed \( x \). There are two ways we could manipulate the joitn distribution to recover the likelihood of purely observed data \( p(x) \).
+In the "Likelihood based" generative modeling, we want to maximize the $ p(x) $ of all observed $ x $. There are two ways we could manipulate the joitn distribution to recover the likelihood of purely observed data $ p(x) $.
 
-The first one is: we explicitly marginalize out the latent variable \(z \). The marginal distribution is obtained by integrating \( p(x, z) \) with respect to \( z \).
+The first one is: we explicitly marginalize out the latent variable $ z $. The marginal distribution is obtained by integrating $ p(x, z) $ with respect to $ z $.
 
-\[
+$$
    p(x) = \int p(x, z) \, dz
-   \]
+   $$
 
-Here, out latent variable \( z \) is a continous varibale, and we want to sum over all the possible values of latent variable (becasue \( x \) can occur with any value of \( z \))
-
+Here, out latent variable $ z $ is a continous varibale, and we want to sum over all the possible values of latent variable (becasue $ x $ can occur with any value of $ z $)
 
 
