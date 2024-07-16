@@ -2,7 +2,7 @@
 layout: page
 permalink: /teaching/
 title: Teaching
-description: The modules I have taught and/or assisted in class during the PhD.
+description: During my PhD, I have performed demonstrator duties for the practical lab of following modules.
 years: [2023, 2022, 2021, 2020]
 nav: true
 nav_order: 2
