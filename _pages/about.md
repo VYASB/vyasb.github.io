@@ -17,15 +17,16 @@ news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
-Hey there, I am a Postdoctoral Researcher at [Trinity College Dublin](https://www.tcd.ie/) under the supervision of [Rachel McDonnell](https://www.scss.tcd.ie/rachel.mcdonnell/) under the [RADICal](https://www.scss.tcd.ie/Rachel.McDonnell/Radical.html) project. My research area is an interesting combination of Virtual Reality, Machine Learning and Motion Perception. The research work also focus on virtual humans, primarily their motion and body shape. 
+Hey there! I am a Postdoctoral Researcher at [Trinity College Dublin](https://www.tcd.ie/) on the [RADICal](https://www.scss.tcd.ie/Rachel.McDonnell/Radical.html) under the guidance of the amazing [Rachel McDonnell](https://www.scss.tcd.ie/rachel.mcdonnell/). I'm passionate about the exciting fusion of Virtual Reality (VR) 🕶️, Machine Learning 🤖, and Applied Perception. My work revolves around **virtual humans**, particularly their motion and body shape.
 
-I finished my PhD under the guidance of Professor [Carol O'Sullivan](https://www.tcd.ie/research/profiles/?profile=osullica), where I explored the relationship between body shape and motion of virtual humans, aiming to push the boundaries of what's possible in immersive experiences. As a Marie Skłodowska-Curie Early Stage Researcher, I am privileged to be part of the [CLIPE-ITN project](https://www.clipe-itn.eu/), exploring into the fascinating topic of virtual humans and their interactions with the world. My academic journey has been enriched by collaborations with esteemed institutions such as `Amazon`, `Inria`, and the `Max-Planck Institute for Intelligent Systems`, where I've had the opportunity to contribute and collaborate with leading researchers in the field.
+I completed my PhD under the guidance of Professor [Carol O'Sullivan](https://www.tcd.ie/research/profiles/?profile=osullica), where I explored how body shape influences motion in virtual humans, pushing the limits of immersive experiences. As a Marie Skłodowska-Curie Early Stage Researcher in the [CLIPE-ITN project](https://www.clipe-itn.eu/), I got to dive even deeper into how virtual humans interact with the world. Along the way, I’ve had the privilege of collaborating with top researchers at institutions like `Amazon`, `Inria`, and the `Max-Planck Institute for Intelligent Systems` — an experience that has truly shaped my academic journey.  
 
-My academic background reflects my multidisciplinary approach to research. With a Master's degree in Computer Science, specializing in Virtual & Augmented Reality, and a Bachelor's degree in `Mechanical & Automation Engineering`, I bring a diverse set of skills and perspectives to my work.
+My background is as **multidisciplinary as it gets**! With a **Master’s in Computer Science (specializing in VR & AR) 🖥️** and a **Bachelor’s in Mechanical & Automation Engineering ⚙️**, I bring a diverse set of skills and perspectives to my work.  
 
-Beyond research and academia, I am deeply passionate about movies. Whether it's exploring new ideas in virtual reality or pushing the boundaries of human-computer interaction, I am driven by a relentless curiosity and a desire to make a difference in the world of technology.
+Beyond research, I’m a **huge movie buff 🎬**—always up for a great story, whether it’s on screen or in the virtual worlds I help create. Whether I’m **pushing the boundaries of human-computer interaction** or **experimenting with new VR ideas**, curiosity keeps me going! 🚀  
 
-Thank you for taking the time to read this far and not giving up 😁. I am excited about the journey ahead and the possibilities that lie on the horizon.
+If you’ve made it this far — **thank you** for sticking around! 😁 I’m excited about the road ahead and the endless possibilities in this field. Let’s create something amazing!  
+
 
 <!-- Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically. -->
 
