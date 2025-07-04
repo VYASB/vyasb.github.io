@@ -17,16 +17,14 @@ news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
-Hey there! I am a **Postdoctoral Researcher** at [Trinity College Dublin](https://www.tcd.ie/) on the [RADICal](https://www.scss.tcd.ie/Rachel.McDonnell/Radical.html) under the guidance of the amazing [Rachel McDonnell](https://www.scss.tcd.ie/rachel.mcdonnell/). I'm passionate about the exciting fusion of **Virtual Reality** (VR), **Machine Learning**, and **Applied Perception**. My work revolves around **virtual humans**, particularly their motion and body shape.
+I am a **Postdoctoral Researcher** at [Trinity College Dublin](https://www.tcd.ie/) working on the [RADICal](https://www.scss.tcd.ie/Rachel.McDonnell/Radical.html) under the guidance of [Rachel McDonnell](https://www.scss.tcd.ie/rachel.mcdonnell/). I'm passionate about the indisciplinary research of applied machine learning and perception. So far, my work has revolved around **Virtual Humans** - their motion and emotions.
 
-I completed my **PhD** under the guidance of Professor [Carol O'Sullivan](https://www.tcd.ie/research/profiles/?profile=osullica), where I explored how body shape influences motion in virtual humans, pushing the limits of immersive experiences. As a **Marie Skłodowska-Curie Early Stage Researcher** in the [CLIPE-ITN project](https://www.clipe-itn.eu/), I got to dive even deeper into how virtual humans interact with the world. Along the way, I’ve had the privilege of collaborating with top researchers at institutions like `Amazon`, `Inria`, and the `Max-Planck Institute for Intelligent Systems` — an experience that has truly shaped my academic journey.  
+I finished my **PhD** in 2024 under the supervision of Professor [Carol O'Sullivan](https://www.tcd.ie/research/profiles/?profile=osullica), where I explored how body shape influences motion in virtual humans. As a **Marie Skłodowska-Curie Early Stage Researcher** in the [CLIPE-ITN project](https://www.clipe-itn.eu/), I had the opportunity to dive deep into how virtual humans interact with the world. Along the way, I’ve had the privilege of collaborating with researchers at institutions like `Amazon`, `Inria`, and the `Max-Planck Institute for Intelligent Systems`.
 
-My background is as multidisciplinary as it gets. With a **Master’s in Computer Science** (specializing in VR & AR) 🖥️ and a **Bachelor’s in Mechanical & Automation Engineering** ⚙️, I bring a diverse set of skills and perspectives to my work.  
+My background is multidisciplinary, with a **Master’s in Computer Science** and a **Bachelor’s in Mechanical & Automation Engineering**. This has given me a diverse set of skills and perspectives that enrich my work.  
 
-Beyond research, I’m a huge movie buff 🎬 — always up for a great story, whether it’s on screen or in the virtual worlds I help create. Whether I’m pushing the boundaries of **human-computer interaction** or **experimenting with new VR ideas**, curiosity keeps me going! 🚀  
-
-If you’ve made it this far — **thank you** for sticking around! 😁 I’m excited about the road ahead and the endless possibilities in this field. Let’s create something amazing!  
-
+Beyond research, I’m a huge movie buff 🎬, whether it’s on screen or in the virtual worlds. I am always interested in exploring new research projects and ideas. Feell free to reach out if you'd like to collaborate on any topics.
+If you are still reading - so **thank you** for sticking around! 😁 I’m excited about the road ahead and the endless possibilities in this field. Adios!
 
 <!-- Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically. -->
 
