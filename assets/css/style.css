@@ -1766,6 +1766,12 @@ textarea.form-input::-webkit-resizer { display: none; }
 
   .navbar-link { font-weight: var(--fw-500); }
 
+  .progress-bar.custom-theme {
+  background-color: #A8203B;
+  border-radius: 4px;
+  transition: width 0.5s ease-in-out;
+}
+
 
 
   /**

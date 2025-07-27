@@ -1,0 +1,16 @@
+<div class="skills-bar">
+  {% for skill in entry.contents %}
+    <div class="skill-item mb-3">
+      <strong>{{ skill.name }}</strong>
+      <div class="progress" style="height: 10px; background-color: #e0e0e0;">
+        <div class="progress-bar custom-theme"
+             role="progressbar"
+             style="width: {{ skill.level }}%;"
+             aria-valuenow="{{ skill.level }}"
+             aria-valuemin="0"
+             aria-valuemax="100">
+        </div>
+      </div>
+    </div>
+  {% endfor %}
+</div>
