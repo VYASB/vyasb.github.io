@@ -1,4 +1,4 @@
----
+<!-- ---
 layout: post
 title:  Motion Capture - How does it work?
 date:   2023-03-24
@@ -108,4 +108,4 @@ Motion capture technology will continue to find new applications in emerging fie
 
 Motion capture technology has come a long way since its inception, evolving into a sophisticated tool that bridges the gap between the physical and digital worlds. Its applications are vast and varied, impacting industries from entertainment to medicine. As technology continues to advance, motion capture will undoubtedly play an increasingly important role in shaping the future of human-computer interaction and digital content creation.
 
-Whether it's bringing fantastical creatures to life on the big screen, enhancing the realism of video game characters, or improving the performance of athletes, motion capture technology is a testament to the incredible possibilities that arise when technology and creativity intersect. As we look to the future, the potential of motion capture is limited only by our imagination.
+Whether it's bringing fantastical creatures to life on the big screen, enhancing the realism of video game characters, or improving the performance of athletes, motion capture technology is a testament to the incredible possibilities that arise when technology and creativity intersect. As we look to the future, the potential of motion capture is limited only by our imagination. -->

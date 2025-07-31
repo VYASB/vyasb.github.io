@@ -1,4 +1,4 @@
----
+<!-- ---
 layout: post
 title:  Exploring Bayesian Neural Networks with Pyro
 date:   2022-03-05
@@ -1240,4 +1240,4 @@ plt.legend(loc=1, fontsize=15, frameon=False);
     
 ![png](Complete_DLII_BNN_2_2ipynb_files/Complete_DLII_BNN_2_2ipynb_125_0.png)
     
-
+ -->
